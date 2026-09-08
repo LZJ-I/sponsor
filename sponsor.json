@@ -1,0 +1,26 @@
+{
+  "page": "https://github.com/LZJ-I/sponsor",
+  "hint_zh": "自愿赞助，不是购买软件。软件始终免费。",
+  "hint_en": "Optional tip, not a purchase. The software stays free.",
+  "channels": [
+    {
+      "id": "wechat",
+      "title_zh": "微信",
+      "title_en": "WeChat",
+      "image": "wechat.webp"
+    },
+    {
+      "id": "alipay",
+      "title_zh": "支付宝",
+      "title_en": "Alipay",
+      "image": "alipay.webp"
+    },
+    {
+      "id": "afdian",
+      "title_zh": "爱发电",
+      "title_en": "Afdian",
+      "url": "https://afdian.com/a/LZJ-I",
+      "image": "afdian.webp"
+    }
+  ]
+}
